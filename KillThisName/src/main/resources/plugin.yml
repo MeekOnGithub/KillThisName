@@ -6,4 +6,4 @@ author: MeekOnGithub
 commands:
   mypluginreload:
     description: Reloads the configuration file
-    usage: /mypluginreload
+    usage: /kmtpreload
