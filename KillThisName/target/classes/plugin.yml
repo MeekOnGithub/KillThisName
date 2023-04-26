@@ -1,0 +1,9 @@
+name: KillMeThatName
+main: com.event.KillMeThatName.main
+version: 1.0
+description: A plugin to kill entities with specific names
+author: MeekOnGithub
+commands:
+  mypluginreload:
+    description: Reloads the configuration file
+    usage: /mypluginreload
